@@ -37,7 +37,7 @@ function Home(){
           <a class="nav-link ">Blog</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link ">Contact</a>
+          <a class="nav-link ">Contact Us</a>
         </li>
         <li style={{marginLeft:"360px"}} class="nav-item">
           <a class="nav-link ">Log in</a>
