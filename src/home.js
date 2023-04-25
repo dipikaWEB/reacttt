@@ -1,6 +1,6 @@
 import './App.css'
 import image from './IMG/LOGO.png';
-import image1 from './IMG/a1.png';
+import image2 from './IMG/a2.png';
 import image2 from './IMG/a2.png';
 import image3 from './IMG/a3.png';
 import image4 from './IMG/a4.png';
@@ -52,7 +52,7 @@ function Home(){
                 <h1 style={{fontSize:"50px"}}> whole game</h1>
                 <button className='btnget'>Get started</button>
                 <button style={{marginTop:"30px"}} className='btnre'>View Pricing</button>
-                <img style={{marginTop:"40px"}}  src={image1}></img> 
+                <img style={{marginTop:"40px"}}  src={image2}></img> 
                 <div className='row'>
                     <div style={{marginTop:"100px"}} className='col-md-6'>
                         <h4 style={{textAlign:"left"}}>OUR STORY</h4>
