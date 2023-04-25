@@ -12,7 +12,7 @@ function login() {
                 <img className='IMAGE' src={Image}></img>
             </div>
             <div style={{marginLeft:"100px"}} className='col-md-6'>
-                <h1  className='well' style={{marginTop:"200px"}}>Welcome!</h1>
+                <h1  className='well' style={{marginTop:"200px"}}>logg in</h1>
                 <p className='well'>log in to your page.</p>
                 <input type='text' className='ipemail' placeholder='Email'/>
                 <input type='text' className='ipemail' placeholder='Password'/>
