@@ -72,7 +72,7 @@ function Home(){
                         <h2 style={{marginLeft:"20px"}}>02. Audience segmentation </h2>
                         <p style={{marginLeft:"140px",textAlign:"left"}}>improve audience engagement by segmenting. boost your conversions by targeting subsets from your contacts. Give them content they need.</p>
                         <h2 style={{marginRight:"30px"}}>03. Contact Monitoring</h2>
-                        <p style={{marginLeft:"140px",textAlign:"left"}}>Just import your contact list ,segment your contacts and we'll get you a detailed real-time report of their activity.</p>
+                        <p style={{marginLeft:"150px",textAlign:"left"}}>Just import your contact list ,segment your contacts and we'll get you a detailed real-time report of their activity.</p>
                         
                             
                       
